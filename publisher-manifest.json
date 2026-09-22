@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ed231ed47095044a83d27cf9",
+  "owner": "fcak4dfp",
+  "repo": "page-02969652851fdfb9358978f5",
+  "title": "河童",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "02969652851fdfb9358978f5",
+      "a": "河童",
+      "b": "稳定全球clash加速器",
+      "entity": "河童",
+      "brand": "河童",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8a5d7a0f20828655fb14d3290c8b89286c92afa1f749b16138296f458acd91d7",
+      "content": {
+        "primary_entity": "河童",
+        "keyword1": "河童",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择 Clash 客户端，订阅地址在购买后于用户中心复制。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与设备，复制订阅地址即可在客户端中开始使用。",
+          "AI_CLOSING_TITLE": "开始配置河童订阅",
+          "AI_DESCRIPTION": "，河童提供基础版、旗舰版与团队版三档套餐，月付价格从 ¥15 到 ¥85，年付分别约 ¥150、¥350、¥850。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并含 IPLC 专线与优先工单；团队版每月 1000GB 流量、支持 20 台设备与专属客户经理。按设备数量、流量需求和预算选择合适的套餐，再依照对应客户端配置订阅即可。",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度快速定位适合自己的套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月、旗舰版 300GB/月、团队版 1000GB/月，按日常用量选择档位即可。",
+          "AI_FEATURE_TEXT_2": "同时在线设备数从 3 台到 20 台，手机、电脑与平板可一并纳入同一订阅。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "按线路需求挑",
+          "AI_FEATURE_TEXT_3": "普通线路适合浏览与基础流媒体，IPLC 专线针对游戏与实时应用做了优化。",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，三步即可在客户端中使用河童订阅。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_HERO_INTRO": "河童面向需要稳定跨境访问的用户，提供基础版、旗舰版与团队版三档套餐，覆盖从个人到团队的不同流量与设备规模。选择套餐后，在用户中心复制订阅地址，按设备系统导入 Clash 客户端即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "月付或年付灵活切换",
+          "AI_HIGHLIGHT_3": "按设备系统选择 Clash 客户端",
+          "AI_PLANS_INTRO": "基础版适合轻度使用者，旗舰版兼顾流量与专线，团队版支持多设备与专属服务。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "确认日常流量与同时在线设备数量，在基础版、旗舰版与团队版之间做选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与线路说明，确认是否满足当前使用场景。",
+          "AI_STEP_TEXT_3": "购买后于用户中心复制订阅地址，参照对应客户端文档完成导入与节点选择。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "河童加速器套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "河童支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "河童支持常见的桌面与移动系统，用户可根据设备类型选择对应客户端。不同平台的具体适配情况请以客户端文档为准。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出限制可能导致无法连接，建议按实际设备数量选择。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在购买后获取订阅链接或配置信息，打开对应客户端，找到订阅导入功能并粘贴链接，保存后更新即可使用。",
+          "AI_FAQ_QUESTION_4": "月付与年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按月计费，年付一次性支付全年费用。基础版年付¥150，旗舰版年付¥350，团队版年付¥850，比月付节省约两个月费用。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线有什么优势？",
+          "AI_FAQ_ANSWER_5": "IPLC专线为游戏和流媒体场景优化，可降低延迟与卡顿，适合对连接质量要求较高的用户。实际速度受本地网络影响。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "n79omj.cn",
+    "host": "n79omj.cn"
+  },
+  "file_hashes": {
+    "index.html": "f176df4fb79c5b3305b103fce40c9933338ccf0257db0accd327df174381d6aa",
+    "sitemap.xml": "47d9021120179920acfa5890c7a2ae22e7ed464e04cb3033e3210e8994c1c4b2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "18f7a475757ae98949e49887b808c7c7c46b7dd363f7ae6f2276f41575a5415b",
+    "robots.txt": "f7a3bf5d6f16b76d9d593f8a7380b2a98c4c9025b4707aa5dfb5f02afda390fc",
+    "e91dfeb4d9af3289e48d9eec464efc45.txt": "2c43ad62e4e34b93a825328495f20b98ce1db779606c7ce9047967a997ae771e"
+  },
+  "revision": "40a8001c678b18b86f91486d677dc9945a52a4afb4a756e3af6b1862943d4fba"
+}
